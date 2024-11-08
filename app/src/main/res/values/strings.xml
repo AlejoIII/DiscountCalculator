@@ -1,3 +1,10 @@
-<resources>
-    <string name="app_name">Calculator</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Calculadora</string>
+    <string name="calculadora_de_descuentos">Calculadora de Descuentos</string>
+    <string name="_2f" translatable="false">%.2f</string>
+    <string name="descuento" tools:ignore="MissingTranslation">Descuento: $%1$s</string>
+    <string name="precio" tools:ignore="MissingTranslation">Precio</string>
+    <string name="limpiar" tools:ignore="MissingTranslation">Limpiar</string>
+    <string name="calcular" tools:ignore="MissingTranslation">Calcular</string>
+    <string name="descuento_por_hacer" tools:ignore="MissingTranslation">Descuento por hacer</string>
 </resources>
